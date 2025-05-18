@@ -1,5 +1,5 @@
 
-# Cypress Test Suite
+# Challenge API Test Suite
 
 This repository contains API tests with [Cypress](https://www.cypress.io/).
 
