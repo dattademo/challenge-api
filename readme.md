@@ -17,7 +17,7 @@ npm install
 ```
 
 
-## 🤖 Headless Ejecution
+## 🤖 Headless Execution
 
 ```bash
 npx cypress run
