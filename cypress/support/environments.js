@@ -3,7 +3,7 @@ const ENVIRONMENTS = {
 };
 
 const TOKENS = {
-    dev: "Bearer 03ed3f6ef55bc8a25b4b5ed276f5e13b8d058708ac3f962af174b61bfe3c19be"
+    dev: "Bearer 55d6636b25b84832f383665a17f72117ee2b5e655a78ba968912c9a37d1c050f"
 };
 
 function getBaseUrl(envName = "dev") {
