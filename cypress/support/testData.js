@@ -1,6 +1,6 @@
 export const updateUser = {
     name: "Jana Waters",
-    email: "jana.waters@hotmail.us",
+    email: "juana.waters@hotmail.us",
     status: "active",
 };
 
